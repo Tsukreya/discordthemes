@@ -11,7 +11,25 @@
 
 /* IMPORT CSS FROM GITHUB */
 @import "https://monstrousdev.github.io/themes/phoenix-bundle/tranquil.css";
+
+.thin-31rlnD {
+    background-color: var(--primary-color);
+}
+
+.scrollableContainer-15eg7h {
+    background-color: var(--primary-color) !important
+}
+
+.container-1NXEtd {
+    background-color: var(--primary-color) !important;
+}
+
+.chatContent-3KubbW {
+    background-color: var(--primary-color);
+}
+
 /*
+
 ---------------------------------------------------------------------------------------------------------------------------------------------
 IMPORTANT: CHANGE DISCORDS THEME TO DARK THEME IN APPEARANCE SETTINGS FOR THIS THEME TO WORK!
 
